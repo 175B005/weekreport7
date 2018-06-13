@@ -4,6 +4,8 @@
 
 # unity room 1週間ゲームジャム　テーマ「ギリギリ」　**[「ノコギリギリ」](https://unityroom.com/games/nokogirigiri)**
 
+[![](https://github.com/175B005/weekreport7/blob/master/scr.gif)](https://unityroom.com/games/nokogirigiri)
+
 ---
 
 unityちゃんが働いてマイホームを買います。
@@ -65,4 +67,4 @@ unityちゃんが働いてマイホームを買います。
 
 
 
-[前](https://github.com/175B005/weekreport5) | [次](https://github.com/175B005/weekreport7)
+[前](https://github.com/175B005/weekreport6) | [次](https://github.com/175B005/weekreport8)
